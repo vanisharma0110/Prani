@@ -1,4 +1,4 @@
 # Prani
 Internship Practice
 <br>
-Auther: Pranjali Gupta and Vaani Sharma
+Author: Pranjali Gupta and Vaani Sharma
